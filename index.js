@@ -22,7 +22,7 @@ from our client side, and a callback function that will be triggered when our se
 /*You can define API routes using:
 C reate POST: Used for creating new data on the server.             app.post()
 R ead GET: Used for reading or retrieving data from the server.     app.get()
-U pdate PUT: Used for updating existing data on the server.         app.put()
+U pdate PUT: Used for updating existing data on the server.         app.patch()
 D elete DELETE: Used for removing data from the server.             app.delete()
 
 in your Express application (in the index.js file).
